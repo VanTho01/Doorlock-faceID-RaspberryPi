@@ -7,5 +7,11 @@
    sudo apt-get update
    sudo apt-get pip install opencv-python
    sudo apt-get pip install opencv-python-contrib
+```
 
+## 2. Execute Project
+
+   ```bassh
+   python main.py
+```
    
