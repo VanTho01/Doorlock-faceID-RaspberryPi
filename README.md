@@ -3,8 +3,8 @@
 
 ## 1. Install Opencv2 on Raspberry Pi
 
-   `sudo apt-get update
-   sudo apt-get pip install opencv-python
-   sudo apt-get pip install opencv-python-contrib`
+   `sudo apt-get update`
+   `sudo apt-get pip install opencv-python`
+   `sudo apt-get pip install opencv-python-contrib`
 
    
